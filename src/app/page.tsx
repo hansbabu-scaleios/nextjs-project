@@ -32,7 +32,7 @@ export default function Home() {
           <h2 className={inter.className}>
             5minslearn <span>-&gt;</span>
           </h2>
-          <p className={inter.className}>Learn tech in 5mins</p>
+          <p className={inter.className}>Learn tech in 15mins</p>
         </a>
       </div>
     </main>
