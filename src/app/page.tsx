@@ -26,7 +26,7 @@ export default function Home() {
         
 
         <a
-          href="https://5minslearn.gogosoon.com/?ref=github_nextjs_app"
+          href="https://www.scaleios.com"
           className={styles.card}
           target="_blank"
           rel="noopener noreferrer"
