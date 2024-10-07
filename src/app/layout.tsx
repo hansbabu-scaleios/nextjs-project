@@ -1,7 +1,7 @@
 import './globals.css'
 
 export const metadata = {
-  title: '5minslearn',
+  title: 'Scaleiosdevops',
   description: 'Sample NextJs App',
 }
 
