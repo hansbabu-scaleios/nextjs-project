@@ -23,17 +23,10 @@ export default function Home() {
       </h2>
 
       <div className={styles.center}>
-        <a
-          href="https://www.scaleios.com"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className={inter.className}>
-            5minslearn <span>-&gt;</span>
-          </h2>
-          <p className={inter.className}>Learn tech in 95mins</p>
-        </a>
+        <h2 className={inter.className}>
+          5minslearn <span>-&gt;</span>
+        </h2>
+        <p className={inter.className}>Learn tech in 95mins</p>
       </div>
     </main>
   )
