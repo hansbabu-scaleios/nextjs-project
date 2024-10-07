@@ -19,12 +19,10 @@ export default function Home() {
         />
       </div>
       <h2 className={inter.className}>
-           Welcome to SCALEIOS!!!
-          </h2>
+        SCALEIOS DevOps
+      </h2>
 
       <div className={styles.center}>
-        
-
         <a
           href="https://www.scaleios.com"
           className={styles.card}
@@ -36,8 +34,6 @@ export default function Home() {
           </h2>
           <p className={inter.className}>Learn tech in 5mins</p>
         </a>
-
-        
       </div>
     </main>
   )
