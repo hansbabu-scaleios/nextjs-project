@@ -19,7 +19,7 @@ export default function Home() {
         />
       </div>
       <h2 className={inter.className}>
-        SCALEIOS DEVOPS TESTING EXAMPLE
+        SCALEIOS DEVOPS TESTING MAHIN
       </h2>
     </main>
   )
